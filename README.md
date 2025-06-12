@@ -136,4 +136,18 @@ mock-interview-app/
 - [@Mehwish4610](https://www.github.com/Mehwish4610)
 
 
+## Screenshots
+
+![App Screenshot](https://github.com/Mehwish4610/Agentic-AI-based-Mock-Interviewer-App/blob/master/Screenshot%202025-06-12%20165700.png)
+
+![App Screenshot](https://github.com/Mehwish4610/Agentic-AI-based-Mock-Interviewer-App/blob/master/Screenshot%202025-06-12%20165742.png)
+
+![App Screenshot](https://github.com/Mehwish4610/Agentic-AI-based-Mock-Interviewer-App/blob/master/Screenshot%202025-06-12%20165819.png)
+
+![App Screenshot](https://github.com/Mehwish4610/Agentic-AI-based-Mock-Interviewer-App/blob/master/Screenshot%202025-06-12%20165844.png)
+
+![App Screenshot](https://github.com/Mehwish4610/Agentic-AI-based-Mock-Interviewer-App/blob/master/Screenshot%202025-06-12%20165903.png)
+
+![App Screenshot](https://github.com/Mehwish4610/Agentic-AI-based-Mock-Interviewer-App/blob/master/Screenshot%202025-06-12%20165921.png)
+
 
