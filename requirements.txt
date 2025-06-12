@@ -1,0 +1,11 @@
+streamlit
+pandas
+openai
+PyMuPDF
+pdfplumber
+fpdf2
+python-dotenv
+elevenlabs
+speechrecognition
+pyaudio
+fpdf
